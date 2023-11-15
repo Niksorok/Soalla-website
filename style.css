@@ -1,0 +1,17 @@
+@import url("./normalize.css");
+@import url("./fonts/fonts.css");
+
+@import url("./blocks/header/title.css");
+@import url("./blocks/header/version.css");
+
+@import url("./blocks/dresses/dresses.css");
+@import url("./blocks/dresses/dresses_close.css");
+@import url("./blocks/dresses/dress.css");
+@import url("./blocks/dresses/open-model.css");
+
+@import url("./blocks/model/model.css");
+@import url("./blocks/model/model_open.css");
+@import url("./blocks/model/girl.css");
+@import url("./blocks/model/neck.css");
+@import url("./blocks/model/chest_belly.css");
+@import url("./blocks/model/legs.css");

@@ -1,0 +1,14 @@
+.girl{
+    min-width: 125px;
+    min-height: 500px;
+    flex-shrink: 0;
+
+    background-image: url("../../image/model-0.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    position: relative;
+}
