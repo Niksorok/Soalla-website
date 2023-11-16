@@ -7,3 +7,8 @@ Button.addEventListener('click', () => {
     Dresses.classList.add("dresses_close");
     Model.classList.add("model_open");
 });
+
+new Swiper('.swiper-container', {
+    spaceBetween: 36,
+    initialSlide: 1,
+});

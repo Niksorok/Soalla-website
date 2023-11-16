@@ -1,0 +1,5 @@
+.chest_belly{
+    max-width: 125px;
+    max-height: 100px;
+    object-fit: contain;
+}

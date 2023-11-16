@@ -1,0 +1,8 @@
+.swiper-wrapper{
+    max-width: 125px;
+}
+.swiper-slide{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
