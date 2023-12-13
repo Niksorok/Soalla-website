@@ -9,6 +9,6 @@ Button.addEventListener('click', () => {
 });
 
 new Swiper('.swiper-container', {
-    spaceBetween: 36,
+    spaceBetween: 0,
     initialSlide: 1,
 });

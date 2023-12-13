@@ -1,7 +1,9 @@
 .model{
-    width: 350px;
-    height: 100%;
+    width: 250px;
+    height: 600px;
 
+    background-color: #F2F2F2;
+    border-radius: 25px;
     margin: 0 auto;
     padding: 0;
     
@@ -9,4 +11,5 @@
     position: relative;
     flex-direction: column;
     justify-content: center;
+    overflow: hidden;
 }
