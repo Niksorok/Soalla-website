@@ -1,0 +1,24 @@
+.model_close_button{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+
+    margin: 0;
+    background: none;
+    border: none;
+
+    position: absolute;
+    display: flex;
+    right: 10px;
+    top: 10px;
+
+    background-image: url("../../image/Close.png");
+    background-position: center;
+    background-size: contain;
+    fill: #FFF;
+    z-index: 2;
+}
+
+.model_close_button:hover{
+    cursor: pointer;
+}

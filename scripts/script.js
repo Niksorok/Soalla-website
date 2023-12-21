@@ -24,6 +24,11 @@ function DressView(dress){
 OpenSonya.addEventListener('click', () => { DressView('Sonya')});
 OpenLada.addEventListener('click', () => { DressView('Lada')});
 
+const closeButton = document.querySelector(".model_close_button");
+closeButton.addEventListener('click', () => {
+    Model.classList.remove("model_open");
+    Dresses.classList.remove("dresses_close");});
+
 new Swiper('.swiper-container', {
     spaceBetween: 0,
     initialSlide: 1,

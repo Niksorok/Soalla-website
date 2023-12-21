@@ -13,6 +13,7 @@
 
 @import url("./blocks/model/model.css");
 @import url("./blocks/model/model_open.css");
+@import url("./blocks/model/model_close_button.css");
 @import url("./blocks/model/girl.css");
 @import url("./blocks/model/neck.css");
 @import url("./blocks/model/chest_belly.css");
