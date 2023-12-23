@@ -3,6 +3,7 @@ const Model = document.querySelector(".model");
 
 const OpenSonya = document.querySelector("#open_Sonya");
 const OpenLada = document.querySelector("#open_Lada");
+const OpenSasha = document.querySelector("#open_Sasha");
 
 function DressView(dress){
     Dresses.classList.add("dresses_close");
@@ -23,6 +24,7 @@ function DressView(dress){
 
 OpenSonya.addEventListener('click', () => { DressView('Sonya')});
 OpenLada.addEventListener('click', () => { DressView('Lada')});
+OpenSasha.addEventListener('click', () => { DressView('Sasha')});
 
 const closeButton = document.querySelector(".model_close_button");
 closeButton.addEventListener('click', () => {
