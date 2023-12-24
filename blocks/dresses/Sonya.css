@@ -1,3 +1,6 @@
 .Sonya{
-    background-image: url("../../image/dress.gif");
+    width: 150px;
+    height: 300px;
+    top: -25px;
+    /* background-color: aqua; */
 }
