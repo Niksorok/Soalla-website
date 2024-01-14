@@ -32,6 +32,7 @@ closeButton.addEventListener('click', () => {
     Dresses.classList.remove("dresses_close");});
 
 new Swiper('.swiper-container', {
+    loop: true,
     spaceBetween: 0,
     initialSlide: 1,
 });
