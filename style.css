@@ -3,6 +3,7 @@
 
 @import url("./blocks/header/title.css");
 @import url("./blocks/header/version.css");
+@import url("./blocks/header/header_img.css");
 
 @import url("./blocks/dresses/dresses.css");
 @import url("./blocks/dresses/dresses_close.css");

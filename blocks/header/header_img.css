@@ -1,0 +1,12 @@
+.header_img{
+    display: flex;
+    position: relative;
+
+    margin: 5% auto 10% 5%;
+    padding: 0;
+    max-width: 75px;
+    max-height: 75px;
+
+    justify-content: center;
+    align-items: center;
+}
