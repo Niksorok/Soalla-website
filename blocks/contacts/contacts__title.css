@@ -1,0 +1,12 @@
+.contacts__title{
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+    color: #000;
+    font-family: Arial;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

@@ -1,0 +1,14 @@
+.contacts__vk{
+    background-image: url("../../image/VK-Text-Logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    width: 304.47px;
+    height: 53px;
+    flex-shrink: 0;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+}

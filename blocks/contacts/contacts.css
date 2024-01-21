@@ -1,0 +1,11 @@
+.contacts{
+    max-width: 300px;
+    max-height: 250px;
+    padding: 0;
+    margin: 200px auto;
+
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
